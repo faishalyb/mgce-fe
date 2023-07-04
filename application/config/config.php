@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // TODO: Sesuaikan dengan base url front-end yang digunakan
-// $config['base_url'] = 'url_base_frontend_anda';
+$config['base_url'] = 'https://frontend-dot-excercise-dicoding.uc.r.appspot.com/';
 
 /*
 |--------------------------------------------------------------------------
